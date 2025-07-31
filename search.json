@@ -30,11 +30,21 @@
     ]
   },
   {
+    "objectID": "reading.html#concurrent-programming",
+    "href": "reading.html#concurrent-programming",
+    "title": "1  Readling List",
+    "section": "1.2 Concurrent Programming",
+    "text": "1.2 Concurrent Programming\n\nThe Little Book of Semaphores. Downey\nFoundations of Multithreaded, Parallel, and Distributed Programming. Andrews\nDistributed Computing Pearls. Taubendfeld\nPrinciples of Concurrent and Distributed Programming. Ben-Ari\n\n\n1.2.1 Applied, Concrete\n\nProgramming with POSIX Threads. Butenhof\nNonsequential and Distributed Programming with Go - Synchronization of Concurrent Processes. Maurer\n\n\n\n1.2.2 Theoretical\n\nA Discipline of Multiprogramming - Theory for Distributed Applications. Misra\nOn a Method of Multiprogramming. Feijen",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  },
+  {
     "objectID": "reading.html#networks",
     "href": "reading.html#networks",
     "title": "1  Readling List",
-    "section": "1.2 Networks",
-    "text": "1.2 Networks\n\nNetwork Basics for Hackers. Occupytheweb\nInternetworking with TCP/IP - Principles, Protocols, and Architecture. Comer\nInternet Core Protocols - The Definitive Guide. Hall\nHands-on Networking - From Theory to Practice. Maria-luisa Merani\nLinux Basics for Hackers - Getting Started with Networking, Scripting, and Security in Kali. OccupyTheWeb",
+    "section": "1.3 Networks",
+    "text": "1.3 Networks\n\nNetwork Basics for Hackers. Occupytheweb\nInternetworking with TCP/IP - Principles, Protocols, and Architecture. Comer\nInternet Core Protocols - The Definitive Guide. Hall\nHands-on Networking - From Theory to Practice. Maria-luisa Merani\nLinux Basics for Hackers - Getting Started with Networking, Scripting, and Security in Kali. OccupyTheWeb",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
     ]
