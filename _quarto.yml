@@ -6,6 +6,7 @@ book:
   author: "Igor Dimitrov"
   date: "7/17/2025"
   chapters:
+    - reading.qmd
     - index.qmd
   page-navigation: true
   downloads: pdf

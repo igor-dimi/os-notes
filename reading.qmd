@@ -1,0 +1,8 @@
+---
+title: "Readling List"
+---
+
+* Operating Systems in Three Easy Piecees. Arpaci-Dusseau
+* Operating Systems - Principles and Practice. Dahlin
+* Operating Systems - Design and Implementation, The Minix Book. Tanenbaum
+* xv6: a Simple, Unix-like Teaching Operating System. Cox, Kaashoek, Morris
