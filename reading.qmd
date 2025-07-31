@@ -10,6 +10,23 @@ title: "Readling List"
 * Operating Systems - Design and Implementation, The Minix Book. Tanenbaum
 * xv6: a Simple, Unix-like Teaching Operating System. Cox, Kaashoek, Morris
 
+## Concurrent Programming
+
+* The Little Book of Semaphores. Downey
+* Foundations of Multithreaded, Parallel, and Distributed Programming. Andrews
+* Distributed Computing Pearls. Taubendfeld
+* Principles of Concurrent and Distributed Programming. Ben-Ari
+
+### Applied, Concrete
+
+* Programming with POSIX Threads. Butenhof
+* Nonsequential and Distributed Programming with Go - Synchronization of Concurrent Processes. Maurer
+
+### Theoretical
+
+* A Discipline of Multiprogramming - Theory for Distributed Applications. Misra
+* On a Method of Multiprogramming. Feijen
+
 ## Networks
 
 * Network Basics for Hackers. Occupytheweb
