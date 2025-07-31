@@ -2,35 +2,13 @@
 title: "Readling List"
 ---
 
+## General DB
 
-## Operating Systems
+* Database Systems - The Complete Book. Garcia-Molin, Ullman, et al
+* The Database Book - Principles & Practice Using MySQL. Gehani
 
-* Operating Systems in Three Easy Piecees. Arpaci-Dusseau
-* Operating Systems - Principles and Practice. Dahlin
-* Operating Systems - Design and Implementation, The Minix Book. Tanenbaum
-* xv6: a Simple, Unix-like Teaching Operating System. Cox, Kaashoek, Morris
+## Files & Algorithms
 
-## Concurrent Programming
-
-* The Little Book of Semaphores. Downey
-* Foundations of Multithreaded, Parallel, and Distributed Programming. Andrews
-* Distributed Computing Pearls. Taubendfeld
-* Principles of Concurrent and Distributed Programming. Ben-Ari
-
-### Applied, Concrete
-
-* Programming with POSIX Threads. Butenhof
-* Nonsequential and Distributed Programming with Go - Synchronization of Concurrent Processes. Maurer
-
-### Theoretical
-
-* A Discipline of Multiprogramming - Theory for Distributed Applications. Misra
-* On a Method of Multiprogramming. Feijen
-
-## Networks
-
-* Network Basics for Hackers. Occupytheweb
-* Internetworking with TCP/IP - Principles, Protocols, and Architecture. Comer
-* Internet Core Protocols - The Definitive Guide. Hall
-* Hands-on Networking - From Theory to Practice. Maria-luisa Merani
-* Linux Basics for Hackers - Getting Started with Networking, Scripting, and Security in Kali. OccupyTheWeb
+* File Organization and Processing. Tharp
+* File Structures. Filk
+* Data Structures, Files, and Databases. Bamford & Curran
