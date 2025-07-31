@@ -14,7 +14,27 @@
     "href": "reading.html",
     "title": "1  Readling List",
     "section": "",
+    "text": "1.1 Operating Systems",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#operating-systems",
+    "href": "reading.html#operating-systems",
+    "title": "1  Readling List",
+    "section": "",
     "text": "Operating Systems in Three Easy Piecees. Arpaci-Dusseau\nOperating Systems - Principles and Practice. Dahlin\nOperating Systems - Design and Implementation, The Minix Book. Tanenbaum\nxv6: a Simple, Unix-like Teaching Operating System. Cox, Kaashoek, Morris",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
+    ]
+  },
+  {
+    "objectID": "reading.html#networks",
+    "href": "reading.html#networks",
+    "title": "1  Readling List",
+    "section": "1.2 Networks",
+    "text": "1.2 Networks\n\nNetwork Basics for Hackers. Occupytheweb\nInternetworking with TCP/IP - Principles, Protocols, and Architecture. Comer\nInternet Core Protocols - The Definitive Guide. Hall\nHands-on Networking - From Theory to Practice. Maria-luisa Merani\nLinux Basics for Hackers - Getting Started with Networking, Scripting, and Security in Kali. OccupyTheWeb",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Readling List</span>"
     ]
